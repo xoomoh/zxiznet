@@ -1,0 +1,4 @@
+#!/bin/bash
+
+vlog -sv -vopt -O5 +acc -incr -f files -f testbench
+
